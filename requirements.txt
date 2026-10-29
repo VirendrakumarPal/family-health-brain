@@ -1,0 +1,3 @@
+anthropic>=0.40
+# optional, only if you want Jev as the cheap filter (USE_JEV=1):
+# typesafe-sdk
